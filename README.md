@@ -10,8 +10,11 @@ Weatherer is a weather app that dynamically changes its theme based on the time 
 
 ## Screenshots
 ## Screenshots
-![Home Screen ](pic1.png)
+
+![Home Screen](pic1.png)
+
 ![Weather Detail](pic2.png)
+
 ![Dark Home Screen](pic3.png)
 
 ## Installation
