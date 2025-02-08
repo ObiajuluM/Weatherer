@@ -32,7 +32,7 @@ Weatherer is a weather app that dynamically changes its theme based on the time 
    ```
 
 
-4. Input api key at launc:
+4. Input api key at launch:
    ```sh
  
    ```
