@@ -9,8 +9,9 @@ Weatherer is a weather app that dynamically changes its theme based on the time 
 - Supports multiple locations
 
 ## Screenshots
-https://github.com/ObiajuluM/Weatherer/blob/main/pic1.jpg
-https://github.com/ObiajuluM/Weatherer/blob/main/pic2.jpg
+## Screenshots
+![Home Screen](pic1.png)
+![Weather Details](pic2.png)
 
 ## Installation
 
